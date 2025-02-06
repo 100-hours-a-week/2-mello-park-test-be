@@ -1,6 +1,6 @@
 // express 모듈을 불러옵니다.
 import express from 'express';
-// ES6 방식으로 express 모듈을 불러옵니다.
+// ES6 방식으로 express 모듈을 불러옵니다. -> 이게 표준이라고 함.
 
 // const express = require('express');
 // commonJS 방식으로 express 모듈을 불러옵니다.
