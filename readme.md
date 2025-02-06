@@ -10,7 +10,7 @@
 Express.js는 **Node.js** 기반의 가볍고 유연한 웹 프레임워크입니다.
 
 ## 📂 프로젝트 구조
-
+```
 📦 express-study
 ├── 📁 src
 │   ├── 📄 app.js          # 메인 Express
@@ -21,7 +21,7 @@ Express.js는 **Node.js** 기반의 가볍고 유연한 웹 프레임워크입�
 ├── 📄 package.json        # 프로젝트 종속성
 ├── 📄 .gitignore          # 불필요한 파일 제외
 └── 📄 README.md           # 프로젝트 문서
-
+```
 
 ## 🚀 시작하기
 ### 1️⃣ 레포지토리 클론
